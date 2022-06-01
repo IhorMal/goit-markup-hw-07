@@ -319,7 +319,7 @@ picture {
 
 .modal-form-field {
   display: flex;
-  flex-direction: column;
+  flex-direction: lastcolumn;
   margin-bottom: 10px;
 }
 
